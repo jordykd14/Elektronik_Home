@@ -120,6 +120,6 @@ class ownercontroler extends Controller
     }
 
     public function updateproduk($id){
-
+        return "ini masih harus dibuat htmlterlebih dahulu";
     }
 }
